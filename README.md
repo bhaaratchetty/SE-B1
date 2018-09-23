@@ -17,25 +17,23 @@ Expert Guidance on how to sell property( eg: legal advice,vastu,etc)
  A forum where people can ask questions.
 
 
------------------------------------------
-HOW TO USE ?
-Fork this repository by pressing the fork button on top.
+----------------------------------------------------------------------
+HOW TO CONTRIBUTE ?
 
-Then, go to your profile, find the forked repository (it has the same name as the original repository).
+-Fork this repository by pressing the fork button on top.
 
-Now, press the Clone or download button and copy the URL. Then clone it into a folder by doing:
+-Then, go to your profile, find the forked repository (it has the same name as the original repository).
+
+-Now, press the Clone or download button and copy the URL. Then clone it into a folder by doing:
 
 git clone <URL>
 
-Then, do whatever changes you've to do. Once you're done with changes and feel good enough to push the code, do these inside the cloned folder:
-
+-Then, do whatever changes you've to do. Once you're done with changes and feel good enough to push the code, do these inside the cloned folder:
 git add .
-
 git commit -m "Put meaningful message here"
-
 git push origin master
 
-Then, once the code is reviewed and approved, you can issue a Pull request by doing the following:
+-Then, once the code is reviewed and approved, you can issue a Pull request by doing the following:
 
 Go to your forked repository.
 Press Pull Request button on top.
